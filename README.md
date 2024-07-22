@@ -80,13 +80,13 @@ Run the main game script:
 python <Path>/game.py 
 ```
 ### Main Window 
-[Main_Window](Images/getname.png)
+![Main_Window](Images/getname.png)
 ### Create Team 
-[Team_Creation](Images/team.png)
+![Team_Creation](Images/team.png)
 ### Error Type 
-[Error](Images/geterror.png)
+![Error](Images/geterror.png)
 ### Evaluate Team
-[Evaluate](Images/eval.png)
+![Evaluate](Images/eval.png)
 
 ## Contribution
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
