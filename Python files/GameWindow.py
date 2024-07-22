@@ -564,7 +564,7 @@ class Ui_MainWindow(object):
         font.setBold(False)
         font.setWeight(50)
         self.AllPlayersList.setFont(font)
-        self.AllPlayersList.setStyleSheet("background-color:rgb(202, 236, 243)")
+        self.AllPlayersList.setStyleSheet("color:rgb(0,0,0);background-color:rgb(202, 236, 243)")
         self.AllPlayersList.setSizeAdjustPolicy(QtWidgets.QAbstractScrollArea.AdjustToContentsOnFirstShow)
         self.AllPlayersList.setEditTriggers(QtWidgets.QAbstractItemView.DoubleClicked|QtWidgets.QAbstractItemView.SelectedClicked)
         self.AllPlayersList.setTextElideMode(QtCore.Qt.ElideMiddle)

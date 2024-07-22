@@ -83,3 +83,4 @@ python python_scripts/main_game.py
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
+This project is under MIT license. 
