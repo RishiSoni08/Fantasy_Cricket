@@ -91,5 +91,8 @@ python <Path>/game.py
 ## Contribution
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
+## Thanks 
+Thanks to Open Source Community for helping me out in this project
+
 ## License
 This project is under MIT license. 
