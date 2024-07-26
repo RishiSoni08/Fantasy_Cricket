@@ -1,6 +1,6 @@
 # Fantasy Cricket Game
 
-This is a Fantasy Cricket game developed using Python. The game allows users to create a virtual team of real cricket players and score points based on the players' performances in real-life matches.
+This is a Fantasy Cricket game developed using Python. The game allows users to create a virtual team of real cricket players and score points based on the players' performances in  different matches.
 
 ## Problem Statement
 
